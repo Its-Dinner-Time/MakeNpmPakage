@@ -1,0 +1,20 @@
+{
+  "name": "dt-npm-deploy-sample",
+  "version": "1.0.0",
+  "description": "npm deploy sample",
+  "author": "dinner-time",
+  "bin": {
+    "log-run": "bin/cli.js"
+  },
+  "type": "module",
+  "keywords": [
+    "sample"
+  ],
+  "files": [
+    "cli"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
